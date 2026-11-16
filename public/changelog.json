@@ -1,0 +1,153 @@
+[
+	{
+		"version": "2.4.2",
+		"date": "2026-10-25",
+		"changes": [
+			"Way more looks: 12 color palettes (AMOLED black, Nord, Dracula, Solarized, Sepia, and more), 16 accent colors, 21 backgrounds including rain, code rain and cherry blossoms",
+			"New style options: 10 fonts, 6 tile styles, round/square/circle site icons, borders, shadows, click effects, page width, title style and clock style",
+			"A Surprise me button in Settings picks a random look from all of them",
+			"Fixed the tools bar on phones so the last row is centered when there is an odd number of buttons",
+			"Data limits: every account now has a daily data allowance (free 300 MB, guests 100 MB), plus a monthly budget for everyone so the host's bandwidth can't run out. You get a warning near the limit",
+			"Admin: new Data limits settings and a Data today column in Users",
+			"Added a More by Moox section to the Apps page, with Airborne Insanity"
+		]
+	},
+	{
+		"version": "2.4.1",
+		"date": "2026-10-25",
+		"changes": [
+			"Notes can now have several pages: add, rename, switch and delete them (your old note becomes Page 1)",
+			"The side bar uses the real site logos and clean icons instead of emojis"
+		]
+	},
+	{
+		"version": "2.4.0",
+		"date": "2026-10-24",
+		"changes": [
+			"Split view: show two pages at once, side by side on wide screens and stacked on a phone. Right-click a tab and choose Split view with this tab, or use Ctrl+K",
+			"Opera GX style side bar: Discord, Twitch, YouTube, Spotify, Reddit and Chess one tap away, opening beside your page (turn it on in Settings, or pick the Gamer look)",
+			"New Gamer look and a red Gamer tab bar color",
+			"Sleeping tabs: unused tabs can fall asleep after 5, 15 or 30 minutes to save data, and wake when you tap them"
+		]
+	},
+	{
+		"version": "2.3.8",
+		"date": "2026-10-24",
+		"changes": [
+			"New Convert tool for length, weight, volume, speed, time and temperature",
+			"New Dice tool: coin flip, dice, a random number between two numbers, and a picker that chooses from your list",
+			"Ctrl+K now finds your open tabs and switches to them"
+		]
+	},
+	{
+		"version": "2.3.7",
+		"date": "2026-10-24",
+		"changes": [
+			"Weather is more reliable: if the main weather service refuses or is slow, Moox switches to a backup source, and it shows the last good result instead of an error when it can"
+		]
+	},
+	{
+		"version": "2.3.6",
+		"date": "2026-10-24",
+		"changes": [
+			"Weather: new 📍 button uses your location, and cities like \"Hobart, Tasmania\" now work",
+			"Weather waits longer for the service before giving up",
+			"Pinned tabs are remembered: they come back at the front next time you open Moox and load when you tap them"
+		]
+	},
+	{
+		"version": "2.3.5",
+		"date": "2026-10-24",
+		"changes": [
+			"Right-click a tab (or press and hold on a phone) for a menu: New tab, Reload, Duplicate, Pin, Copy address, Add to favorites, Close, Close others, Close tabs to the right and Reopen closed tab",
+			"Pinned tabs shrink to just the site icon and stay at the front"
+		]
+	},
+	{
+		"version": "2.3.4",
+		"date": "2026-10-24",
+		"changes": [
+			"Search engine setting now marks Brave as recommended, with a note about why",
+			"The greeting has a sun or moon for the time of day",
+			"The browser tab title follows the page you are on",
+			"New \"Copy this page's address\" in Ctrl+K, with a small pop-up message",
+			"Favorites and quick links fade in one after another"
+		]
+	},
+	{
+		"version": "2.3.3",
+		"date": "2026-10-24",
+		"changes": [
+			"When Google shows its robot check (which can't be solved from a server), Moox offers to run the same search on DuckDuckGo or switch your search engine",
+			"The daily fact on the home page is now labelled \"Fun fact\""
+		]
+	},
+	{
+		"version": "2.3.2",
+		"date": "2026-10-24",
+		"changes": [
+			"Daily fun fact under the title (switch it off in Settings)",
+			"Gradient title, softer shadows and playful icon hover",
+			"Press ? for a list of keyboard shortcuts",
+			"One-tap Looks in Settings: Clean, Midnight, Ocean, Sunset, Forest, Candy and Grape change colors, background, tabs and tiles together",
+			"Search shortcuts: type yt cats, w moon, gh react, r topic, maps hobart, imdb, so, tw or sp followed by your words",
+			"Full screen mode hides the tab bar and address bar (Ctrl+K, then Full screen; Esc to leave)",
+			"Ctrl+K also has Duplicate this tab and Close other tabs",
+			"Fixed the colored band at the top of the home page on phones"
+		]
+	},
+	{
+		"version": "2.3.1",
+		"date": "2026-10-24",
+		"changes": [
+			"Tab bar colors: Ocean, Sunset, Forest, Grape, Rose, Mint, Gold, Midnight, Graphite or pick your own",
+			"Tab shapes (Classic, Pills, Underline) and a color stripe per website so tabs are easy to tell apart",
+			"New switch to hide the recent sites row and Reopen session button (the Quick links switch hides quick apps)",
+			"Reopen a closed tab with Ctrl+Shift+T or from the Ctrl+K palette",
+			"Polish: smoother hover and press effects, softer shadows, glowing search box, animated menus and thinner scrollbars",
+			"Fixed the page on phones: the background now always fills the screen, even when you scroll or zoom out"
+		]
+	},
+	{
+		"version": "2.3.0",
+		"date": "2026-10-23",
+		"changes": [
+			"Apps & games page with search, categories, a star to favorite, and a Surprise me button",
+			"Command palette: press Ctrl+K (or Cmd+K) to jump to anything",
+			"Reopen your last session's tabs, plus a row of recently visited sites on the home page",
+			"A \"time left\" badge shows your minutes, and reading a page now counts for a bit so guest and free time goes down correctly",
+			"Admin panel: new Apps tab to add, edit, delete, bulk import and restore the apps list",
+			"Admin panel: new Charts tab with daily users, hours browsed, sign-ups vs guests and busiest hours",
+			"Admin panel: guest controls, message banner, backups and the security log were added in earlier updates"
+		]
+	},
+	{
+		"version": "2.2.0",
+		"date": "2026-10-23",
+		"changes": [
+			"Guest mode: try Moox for 30 minutes a day without an account",
+			"New home page: greeting, quick links, weather, calculator, timer and notes",
+			"Animated backgrounds, custom accent colours, wallpapers, fonts and corner styles",
+			"Better on phones: bottom sheets, bigger buttons, safe areas and move buttons for favorites",
+			"Warning when Moox is opened inside the Google app or another in-app browser",
+			"Version number at the bottom that updates itself, with this list"
+		]
+	},
+	{
+		"version": "2.1.0",
+		"date": "2026-10-22",
+		"changes": [
+			"Invite links for unlock codes, a message banner from the admin, device log-out and account deletion"
+		]
+	},
+	{
+		"version": "2.0.0",
+		"date": "2026-10-22",
+		"changes": [
+			"Accounts with a free daily time limit that resets at midnight Sydney time",
+			"One-time unlock codes for unlimited time",
+			"Admin page with live connections, users, codes and a security log",
+			"Favorites, history and settings sync to your account"
+		]
+	}
+]
